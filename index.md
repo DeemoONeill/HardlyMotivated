@@ -36,5 +36,5 @@ My areas of interest are:
 
 {% for post in site.posts %}
 
-- [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url}})
   {% endfor %}

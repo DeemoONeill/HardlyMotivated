@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Injury and Recovery
+title: injury-and-recovery
 tags: [health, fitness]
+published: true
 ---
 
 ## Injury and Recovery
